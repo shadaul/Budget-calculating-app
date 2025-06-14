@@ -1,0 +1,11 @@
+{
+    "income": [
+        {
+            "amount": 123.0,
+            "desc": "qwe",
+            "date": "2025-06-14 20:32:18.620978"
+        }
+    ],
+    "expenses": [],
+    "savings_goal": 0
+}
