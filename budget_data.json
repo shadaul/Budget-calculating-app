@@ -4,8 +4,51 @@
             "amount": 123.0,
             "desc": "qwe",
             "date": "2025-06-14 20:32:18.620978"
+        },
+        {
+            "amount": 123.0,
+            "desc": "\u044f\u0447\u0441\u044f\u0441\u0447\u0447",
+            "category": "Food",
+            "date": "2025-06-14 21:10:42.173039"
+        },
+        {
+            "amount": 123123.0,
+            "desc": "asdas",
+            "category": "Food",
+            "date": "2025-06-14 21:18:03.973686"
+        },
+        {
+            "amount": 31213.0,
+            "desc": "aadsdas",
+            "category": "Food",
+            "date": "2025-06-14 21:22:51.515769"
+        },
+        {
+            "amount": 10.0,
+            "desc": "asd",
+            "category": "Food",
+            "date": "2025-06-14 21:29:41.023336"
         }
     ],
-    "expenses": [],
+    "expenses": [
+        {
+            "amount": 12312.0,
+            "desc": "\u0444\u0430\u044b\u0432",
+            "category": "Food",
+            "date": "2025-06-14 21:09:47.663591"
+        },
+        {
+            "amount": 123213.0,
+            "desc": "asdasd",
+            "category": "Shopping",
+            "date": "2025-06-14 21:23:32.765608"
+        },
+        {
+            "amount": 6.0,
+            "desc": "asd",
+            "category": "Food",
+            "date": "2025-06-14 21:29:49.496538"
+        }
+    ],
     "savings_goal": 0
 }
